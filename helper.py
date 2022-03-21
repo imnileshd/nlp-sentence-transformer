@@ -3,6 +3,7 @@ import torch
 import pandas as pd
 from sentence_transformers import SentenceTransformer, util
 
+# load the dataset(knowledge base)
 dataset = pd.read_csv("./data/dataset.csv")
 
 # load a sentence-transformer model
