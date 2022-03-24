@@ -1,4 +1,4 @@
-# Improving Business Processes Using ML-Based Contact Form
+# Improving Business Processes using Machine Learning
 
 Imagine your business has a contact form on its website. Every day you get many messages from the form, many of which are actionable, but it's easy to fall behind on dealing with them since different employees handle different queries. It would be great if an automated system could responds to the incoming queries that helps in assit the process and reduce levels of manual support.
 
